@@ -1,0 +1,3 @@
+001-0556c00	T 001-0556c	buddhist/T-taisho/T85/05/T85-0556.png
+001-0557a00	T 001-0557a	buddhist/T-taisho/T85/05/T85-0557.png
+001-0557b00	T 001-0557b	buddhist/T-taisho/T85/05/T85-0557.png

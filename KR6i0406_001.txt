@@ -1,29 +1,28 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:18:13.431340
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:51
 #+TITLE: 大乘稻芉經隨聽疏決
 #+PROPERTY: CBETA_ID T85n2783
 #+PROPERTY: ID KR6i0406
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2783
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0406_T_000-0556b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0406_T_001-0556b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2783[cf.No.2782]¶
-
- 大乘稻芉經隨聽疏決¶
+No. 2783 [cf. No. 2782]¶
+大乘稻芉經隨聽疏決¶
 ¶
 
 #+BEGIN_VERSE
 「　稽首恭敬正遍知
 　及以妙法僧伽眾¶
 　所有稻芉未決義
-　今當次第略解釋
+　今當次第略解釋」
 #+END_VERSE
-」¶
+¶
 
 十六論中第一言因中有果論者。謂如有一
 <pb:KR6i0406_T_001-0556c>¶
